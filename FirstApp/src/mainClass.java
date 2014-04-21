@@ -2,16 +2,16 @@ import java.util.Scanner;
 
 public class mainClass {
 	public mainClass() {
-		System.out.println("¾È³çÇÏ¼¼¿ä^^;");
+		System.out.println("ì•ˆë…•í•˜ì„¸ìš” ^^;");
 		System.out.println();		
 		Scanner sc = new Scanner(System.in);
-		System.out.print("Ã¹¹øÂ° ÀÔ·Â : ");
+		System.out.print("ì²«ë²ˆì§¸ ì…ë ¥ : ");
 		int a = sc.nextInt();
-		System.out.print("µÎ¹øÂ° ÀÔ·Â : ");
+		System.out.print("ë‘ë²ˆì§¸ ì…ë ¥ : ");
 		int b = sc.nextInt();
 		System.out.println();
 		int c = a + b;
-		System.out.print("´ä : " + c);
+		System.out.print("ë‹µ : " + c);
 	}
 
 	public static void main(String[] args) {
