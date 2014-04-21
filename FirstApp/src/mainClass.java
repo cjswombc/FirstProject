@@ -11,7 +11,7 @@ public class mainClass {
 		int b = sc.nextInt();
 		System.out.println();
 		int c = a + b;
-		System.out.print("답 : " + c);
+		System.out.print("답이란? : " + c);
 	}
 
 	public static void main(String[] args) {
